@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id age
+id container
+id email
+id login_radio_button
+id name
+id password
+id radio_group
+id register_radio_button
+layout activity_main
+layout fragment_login
+layout fragment_registration
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_enter_age
+string app_enter_email
+string app_enter_name
+string app_enter_password
+string app_name
+string hello_blank_fragment
+style Theme.LoginRegistrationFragmentApp

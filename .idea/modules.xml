@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LoginRegistrationFragmentApp.iml" filepath="$PROJECT_DIR$/.idea/modules/LoginRegistrationFragmentApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoginRegistrationFragmentApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoginRegistrationFragmentApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoginRegistrationFragmentApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoginRegistrationFragmentApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoginRegistrationFragmentApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoginRegistrationFragmentApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LoginRegistrationFragmentApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LoginRegistrationFragmentApp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
